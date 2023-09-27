@@ -542,5 +542,5 @@ Have Questions? Join us over [Slack](https://launchpass.com/collabnix) and get c
 
 ## Maintainer
 
-- [Apurva Bhandari](https://www.linkedin.com/in/apurvabhandari-linux/)
+- [Apurva Bhandari](https://www.linkedin.com/in/xyz)
 - [Ajeet Singh Raina](https://www.linkedin.com/in/ajeetsraina)
